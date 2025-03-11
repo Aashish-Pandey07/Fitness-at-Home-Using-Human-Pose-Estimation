@@ -1,9 +1,9 @@
 # Fitness-at-Home-Using-Human-Pose-Estimation
-Overview
+#Overview
 
 Fitness at Home using Human Pose Estimation is a deep learning-based system that helps users track and analyze their exercise movements in real-time. Using OpenCV, MediaPipe, and TensorFlow, this project detects human poses and counts repetitions for various exercises.
 
-Features
+#Features
 
 - Real-time pose estimation using MediaPipe.
 
@@ -13,23 +13,23 @@ Features
 
 - Supports multiple exercises:
 
- a) Push-up
+  a) Push-up
 
-b) Curl
+ b) Curl
 
-c) Jumping Jacks
+ c) Jumping Jacks
 
-d) Leg Raise
+ d) Leg Raise
 
-e) Press
+ e) Press
 
-f) Squat
+ f) Squat
 
-Technologies Used
+#Technologies Used
 
 Programming Language: Python
 
-Libraries & Frameworks:
+# Libraries & Frameworks:
 
 OpenCV
 
@@ -41,14 +41,14 @@ NumPy
 
 Matplotlib
 
-Installation
+# Installation
 
 Prerequisites
 
 Ensure you have Python installed (recommended version: 3.8 or later). Install dependencies using: <br>
 pip install opencv-python mediapipe tensorflow numpy matplotlib <br>
 
-Usage
+# Usage
 
 a) Clone the repository:
 
@@ -61,7 +61,7 @@ python main.py
 
 c) Follow the on-screen instructions and perform exercises.
 
-Contributing
+# Contributing
 
 Contributions are welcome! To contribute:
 
