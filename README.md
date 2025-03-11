@@ -15,15 +15,15 @@ Fitness at Home using Human Pose Estimation is a deep learning-based system that
 
   a) Push-up
 
- b) Curl
+  b) Curl
 
- c) Jumping Jacks
+   c) Jumping Jacks
 
- d) Leg Raise
+   d) Leg Raise
 
- e) Press
+   e) Press
 
- f) Squat
+   f) Squat
 
 #Technologies Used
 
@@ -41,6 +41,11 @@ NumPy
 
 Matplotlib
 
+
+#Project Demo Video: <br>
+
+https://drive.google.com/file/d/1E2uDSOknbZ7S5-qeOxI2ds10ZYonhD0Z/view?usp=drive_link
+
 # Installation
 
 Prerequisites
@@ -48,7 +53,7 @@ Prerequisites
 Ensure you have Python installed (recommended version: 3.8 or later). Install dependencies using: <br>
 pip install opencv-python mediapipe tensorflow numpy matplotlib <br>
 
-# Usage
+Usage
 
 a) Clone the repository:
 
